@@ -1,7 +1,7 @@
-# 🚦 Reflex Meter Project 🚦
+# 🚦 Reflex Meter 🚦
 
 ## Overview
-Welcome to the Reflex Meter Project, a fascinating journey into the world of embedded systems and real-time computing! 🌟 This project is meticulously crafted using the ARM Thumb instruction set, ensuring compact and efficient code for microcontroller applications.
+Welcome to Reflex Meter, a fascinating journey into the world of embedded systems and real-time computing! 🌟 This project is meticulously crafted using the ARM Thumb instruction set, ensuring compact and efficient code for microcontroller applications.
 
 ## Key Features
 - 🎮 **User Interaction:** Utilizes a button press system to test reflexes. Players can engage in a simple yet captivating way to measure their reaction times.
